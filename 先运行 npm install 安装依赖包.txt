@@ -1,0 +1,2 @@
+1、导入vue_api_server——>db——>mydb.spl
+2、最后在启动服务器就好，还有记得下载vue_api_server里面的以来包（npm install）
